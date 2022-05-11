@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1651915089 source:i:\obstacle\main.cpp
+	<iostream>
+	<SDL.h>
+	"header.h"
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<vector>
+
+1652158355 i:\obstacle\header.h
+	<iostream>
+	<SDL.h>
+
+1652159712 source:i:\obstacle\header.cpp
+	<iostream>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	"header.h"
+	<SDL.h>
+
